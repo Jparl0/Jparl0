@@ -1,18 +1,12 @@
 ### Hi there 👋
 
-<!--
-**Jparl0/Jparl0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on a Personal Portfolio
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on backend projects
 - 💬 Ask me about ...
 - 📫 How to reach me: ... joeyparlamenti@gmail.com || Portfolio
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Volleyball and Brandon Sanderson books!
--->
 
 Skills: React.js / JavaScript / HTML / CSS / Ruby / Rails / SQL 
 
