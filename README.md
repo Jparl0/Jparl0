@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a Personal Portfolio
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Python and Java
 - 👯 I’m looking to collaborate on backend projects
-- 💬 Ask me about ...
-- 📫 How to reach me: ... joeyparlamenti@gmail.com || Portfolio
+- 📫 How to reach me: joeyparlamenti@gmail.com || Portfolio
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Volleyball and Brandon Sanderson books!
 
