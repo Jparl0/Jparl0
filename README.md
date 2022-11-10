@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Volleyball and Brandon Sanderson books!
 
-Skills: React.js / JavaScript / HTML / CSS / Ruby / Rails / SQL 
+Skills: React.js / JavaScript / HTML / CSS / Ruby / Rails / SQL / Go
 
 https://www.linkedin.com/in/joey-parlamenti/
 
