@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a Personal Portfolio
-- 🌱 I’m currently learning Python and Java
+- 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate on backend projects
 - 📫 How to reach me: joeyparlamenti@gmail.com || Portfolio
 - 😄 Pronouns: He/Him
