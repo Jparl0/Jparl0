@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a Personal Portfolio
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning Typescript/Python3
 - 👯 I’m looking to collaborate on backend projects
 - 📫 How to reach me: joeyparlamenti@gmail.com || Portfolio
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Volleyball and Brandon Sanderson books!
 
-Skills: React.js / JavaScript / HTML / CSS / Bootstrap / Python3 / Ruby / Rails / SQL / Go
+Skills: React.js / Typescript/ JavaScript / HTML / CSS / Bootstrap / Python3 / Ruby / Rails / SQL / Go
 
 https://www.linkedin.com/in/joey-parlamenti/
 
