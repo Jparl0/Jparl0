@@ -3,9 +3,9 @@
 - 🔭 I’m currently working on a Personal Portfolio
 - 🌱 I’m currently learning Python3
 - 👯 I’m looking to collaborate on backend projects
-- 📫 How to reach me: joeyparlamenti@gmail.com || Portfolio
+- 📫 How to reach me: Joeyparlamenti@gmail.com || Portfolio
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love Volleyball and Brandon Sanderson books!
+- ⚡ Fun fact: Love volleyball and Brandon Sanderson books
 
 Skills: React.js / Typescript/ JavaScript / HTML / CSS / Bootstrap / Python3 / Ruby / Rails / SQL / Go
 
