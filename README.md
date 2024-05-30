@@ -15,7 +15,9 @@ https://www.linkedin.com/in/joey-parlamenti/
 
 Recent Projects
 
+Canasta Clash: A single page web application describing the classic rules for the game of Canasta and some personal variants that make the game more enjoyable for myself and my family!
+
 Satisfactory Planner: Allows players of the video game Satisfactory to visualize the game’s data based on their personal factory systems to assist in strategizing future planning.
 
-D&D Crawl: A simplified dungeon adventure game with various selectable classes, items and dynamic rooms selection. Select a class and find the dragon to win the game!
+DC2 Text Scrapper: Utilizing Python for the backend, this application combs over a single page application searching and displaying information vital to a childhood game. This information is then categorized and stored in a database for visualization and analysis.
 
