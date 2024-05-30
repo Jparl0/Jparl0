@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Personal Portfolio
+- 🔭 I’m currently working on a Canasta Website
 - 🌱 I’m currently learning Python3
 - 👯 I’m looking to collaborate on backend projects
 - 📫 How to reach me: Joeyparlamenti@gmail.com || [Portfolio Site](https://joeyparlamenti.com/)
