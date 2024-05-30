@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a Personal Portfolio
 - 🌱 I’m currently learning Python3
 - 👯 I’m looking to collaborate on backend projects
-- 📫 How to reach me: Joeyparlamenti@gmail.com || Portfolio
+- 📫 How to reach me: Joeyparlamenti@gmail.com || Joeyparlamenti.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Love volleyball and Brandon Sanderson books
 
