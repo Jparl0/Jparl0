@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Canasta Website
-- 🌱 I’m currently learning Python3
+- 🔭 I’m currently working on a Canasta Website & Health Education Site
 - 👯 I’m looking to collaborate on backend projects
 - 📫 How to reach me: Joeyparlamenti@gmail.com || [Portfolio Site](https://joeyparlamenti.com/)
 - 😄 Pronouns: He/Him
@@ -14,6 +13,8 @@ https://www.linkedin.com/in/joey-parlamenti/
 --------------------------------------------------
 
 Recent Projects
+
+Holistic Health Handbook: A comprehensive educational website encompassing evidence-based strategies to guide users to have more awareness/control over the Dimensions of Wellness. Made as a passion-project for a free guide to improve public health and reduce injury, illness, stress etc.
 
 Canasta Clash: A single page web application describing the classic rules for the game of Canasta and some personal variants that make the game more enjoyable for myself and my family!
 
